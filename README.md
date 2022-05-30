@@ -1,3 +1,3 @@
 # MyPass
 
-extreamly simple, random password generator build jast to play with tailwind CSS.
+extreamly simple, random password generator build just to play with tailwind CSS.
